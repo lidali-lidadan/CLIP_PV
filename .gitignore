@@ -1,0 +1,10 @@
+# === 忽略大文件 / 数据集 / 日志 ===
+datasets/
+checkpoints/
+logs/
+VOCdevkit/VOC2012/JPEGImages/
+# 通配符写法
+*.tar.gz
+*.pth
+VOCdevkit_PV/VOC2012/JPEGImages/
+
